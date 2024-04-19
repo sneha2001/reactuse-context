@@ -1,0 +1,19 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; 
+}
+
+.shopping-card {
+  justify-content: space-around;
+  background-color: #b8df0b;
+  padding: 20px 30px;
+}
+
+.product-item {
+  margin: 10px;
+  border: 1px solid blue;
+  padding: 10px;
+  justify-content: space-evenly;
+  background-color: aqua;
+}
